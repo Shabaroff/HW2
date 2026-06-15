@@ -80,5 +80,6 @@ public class Main {
         System.out.println(personalothercount);
         System.out.println("или");
         System.out.println(personalhourscount);
+        System.out.println("ЗАДАНИЕ ВЫПОЛНЕНО");
     }
 }
